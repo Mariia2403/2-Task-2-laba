@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\ConsoleApp1 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4E13C7-852B-4F90-AB4C-B3BF65FC7CE1}|ConsoleApp1.csproj|D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\ConsoleApp1 \u2014 \u043A\u043E\u043F\u0438\u044F\\matrixoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4E13C7-852B-4F90-AB4C-B3BF65FC7CE1}|ConsoleApp1.csproj|solutionrelative:matrixoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4E13C7-852B-4F90-AB4C-B3BF65FC7CE1}|ConsoleApp1.csproj|d:\\visual studio (2)\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2 \u043B\u0431\\2 task\\consoleapp1 \u2014 \u043A\u043E\u043F\u0438\u044F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4E13C7-852B-4F90-AB4C-B3BF65FC7CE1}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4E13C7-852B-4F90-AB4C-B3BF65FC7CE1}|ConsoleApp1.csproj|D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\ConsoleApp1 \u2014 \u043A\u043E\u043F\u0438\u044F\\mymatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4E13C7-852B-4F90-AB4C-B3BF65FC7CE1}|ConsoleApp1.csproj|solutionrelative:mymatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EB9E99-3816-4BD7-BE51-04CF5F4A895A}|..\\UnitTestProject1\\UnitTestProject1.csproj|d:\\visual studio (2)\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\2 \u043B\u0431\\2 task\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4E13C7-852B-4F90-AB4C-B3BF65FC7CE1}|ConsoleApp1.csproj|D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\ConsoleApp1 \u2014 \u043A\u043E\u043F\u0438\u044F\\matrixdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4E13C7-852B-4F90-AB4C-B3BF65FC7CE1}|ConsoleApp1.csproj|solutionrelative:matrixdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwOsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:22:35.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatrixOperations.cs",
+              "DocumentMoniker": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\ConsoleApp1 \u2014 \u043A\u043E\u043F\u0438\u044F\\MatrixOperations.cs",
+              "RelativeDocumentMoniker": "MatrixOperations.cs",
+              "ToolTip": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\ConsoleApp1 \u2014 \u043A\u043E\u043F\u0438\u044F\\MatrixOperations.cs",
+              "RelativeToolTip": "MatrixOperations.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:06:45.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatrixData.cs",
+              "DocumentMoniker": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\ConsoleApp1 \u2014 \u043A\u043E\u043F\u0438\u044F\\MatrixData.cs",
+              "RelativeDocumentMoniker": "MatrixData.cs",
+              "ToolTip": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\ConsoleApp1 \u2014 \u043A\u043E\u043F\u0438\u044F\\MatrixData.cs",
+              "RelativeToolTip": "MatrixData.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAADwv3YAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:05:15.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyMatrix.cs",
+              "DocumentMoniker": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\ConsoleApp1 \u2014 \u043A\u043E\u043F\u0438\u044F\\MyMatrix.cs",
+              "RelativeDocumentMoniker": "MyMatrix.cs",
+              "ToolTip": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\ConsoleApp1 \u2014 \u043A\u043E\u043F\u0438\u044F\\MyMatrix.cs",
+              "RelativeToolTip": "MyMatrix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:04:37.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\ConsoleApp1 \u2014 \u043A\u043E\u043F\u0438\u044F\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\2 \u041B\u0411\\2 Task\\ConsoleApp1 \u2014 \u043A\u043E\u043F\u0438\u044F\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwBgBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:03:40.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
